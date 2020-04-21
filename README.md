@@ -16,7 +16,7 @@ Ethernet Card: Intel I219V7 PCI Express Gigabit Ethernet:
 
 Wifi/BT Card: N/A
 
-What guide/tool followed: https://dortania.github.io/OpenCore-Desktop-Guide/
+Guide: https://dortania.github.io/OpenCore-Desktop-Guide/
 
 Misc:
   
