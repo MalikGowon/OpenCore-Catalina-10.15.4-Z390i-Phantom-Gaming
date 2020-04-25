@@ -8,7 +8,7 @@
 
 **Memory:** Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-2666
 
-**Motherboard:** ASRock Z390 Phantom Gaming-ITX/ac Mini ITX
+**Motherboard:** ASRock Z390 Phantom Gaming-ITX/ac Mini ITX 
 
 **Audio Codec:** ALC1220
 
@@ -96,7 +96,7 @@
 
    - `-v keepsyms=1 debug=0x100 alcid=1 agdpmod=pikera`
 
-## BIOS Settings
+## BIOS Settings (4.40)
 
 - #### CPU Configuration
 
