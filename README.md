@@ -1,5 +1,19 @@
 # OpenCore-Catalina-10.15.4
 
+[Hardware](README.md#Hardware)
+
+[Misc](README.md#Misc)
+
+[Drivers](README.md#Drivers)
+
+[Kexts](README.md#Kexts)
+
+[SSDT](README.md#SSDT)
+
+[Config](README.md#Config)
+
+[BIOS Settings 4.40](README.md#BIOS-Settings)
+
 ## Hardware
 
 **CPU:** Intel Core i5-9400F 2.9 GHz 6-Core Processor
@@ -43,7 +57,7 @@
 - [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)
 - [AppleALC](https://github.com/vit9696/AppleALC/releases)
 - [IntelMausiEthernet](https://github.com/Mieze/IntelMausiEthernet)
-- [SmallTreeIntel82576 kext](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)
+- [SmallTreeIntel82576](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)
 - [XHCI-unsupported](https://github.com/RehabMan/OS-X-USB-Inject-All)
 
 ## SSDT
@@ -96,7 +110,7 @@
 
    - `-v keepsyms=1 debug=0x100 alcid=1 agdpmod=pikera`
 
-## BIOS Settings (4.40)
+## BIOS Settings
 
 - #### CPU Configuration
 
@@ -129,6 +143,3 @@
 - ### CSM
 
   - CSM `Disabled`
-
-
-
