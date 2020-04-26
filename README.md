@@ -30,7 +30,7 @@
 
 **Wifi/BT Card:** N/A
 
-**Guide:** [OpenCore 0.5.7](https://dortania.github.io/OpenCore-Desktop-Guide/)
+**Guide:** [OpenCore 0.5.7 DEBUG](https://dortania.github.io/OpenCore-Desktop-Guide/)
 
 ## Misc
 
