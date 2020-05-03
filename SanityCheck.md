@@ -110,7 +110,7 @@
 - **AppleDebug** = **Yes**
 - **DisableWatchDog** = **Yes**
 - **Target** = **67**
-- **DisplayLevel** see [Debugging Docs](https://desktop.dortania.ml/troubleshooting/debug.html) for more info debug display levels
+- **DisplayLevel** see [Debugging Docs](https://dortania.github.io/OpenCore-Desktop-Guide/troubleshooting/debug.html) for more info debug display levels
 - **DisplayDelay** = **0**
 
 ### Entries
